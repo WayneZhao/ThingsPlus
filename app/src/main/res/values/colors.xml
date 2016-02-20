@@ -6,5 +6,8 @@
     <color name="swipe_color_3">#8ABD00</color>
     <color name="swipe_color_4">#7CAF00</color>
 
+    <color name="light_gray_eae3e1">#eae3e1</color>
+    <color name="white">#FFFFFF</color>
+
     <color name="swipe_background_color">#ccc</color>
 </resources>
